@@ -1,0 +1,9 @@
+name: CustomJoinMessages
+version: '1.0.0'
+main: UHCPatata.customJoinMessages.CustomJoinMessages
+api-version: '1.21'
+authors: [ Meliory ]
+commands:
+  customjoinmessages:
+    description: Recarga los mensajes de join/quit desde config.yml
+    usage: /<command>

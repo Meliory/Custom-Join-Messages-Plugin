@@ -1,0 +1,10 @@
+join-messages:
+  - "¡Bienvenido a la grieta del invocador, %player%!"
+  - "En qué sitio te sentaste %player%..."
+  - "¡%player% ha llegado para trolear!"
+
+exit-messages:
+  - "%player% se ha marchado"
+
+vanish-players:
+  - "Meliorynt"
